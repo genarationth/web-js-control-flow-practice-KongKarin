@@ -35,7 +35,7 @@ switch (dayNumber) {
         console.log('Friday');
         break;
     case '6':
-    console.log('Saturday');
+        console.log('Saturday');
         break;
     default:
         console.log('Invalid day number')
